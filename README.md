@@ -1,3 +1,4 @@
+https://babarali1122.github.io/ai-shopify-store/
 # AI Shopify Store Setup
 
 ## 📌 Project Overview
